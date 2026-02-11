@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+feedparser
+openai
+python-dotenv
